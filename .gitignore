@@ -1,0 +1,21 @@
+# Discord Self-Bot Specific
+config/config.json
+*.log
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Replit & System
+.replit
+replit.nix
+.local/
+.cache/
+.DS_Store
+Thumbs.db
